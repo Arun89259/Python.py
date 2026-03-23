@@ -1,45 +1,43 @@
 # Python.py
 
-# 🐍 Python Basics
+# 🐍 Python Number System & Basics Practice
 
-This repository contains my beginner-level Python programs and practice questions.
-I am currently learning Python fundamentals step by step.
-
----
+This repository contains basic Python practice questions and solutions covering:
 
 ## 📚 Topics Covered
 
-* Print Function
-* Variables
-* Data Types
+* Print statements
+* Data types (`type()`)
+* Type conversion
+* Binary numbers
+* Octal numbers
+* Hexadecimal numbers
+* Scientific notation (`e`)
 
 ---
 
-## 💻 Programs Included
+## 📌 Description
 
-* Basic print statements
-* Output formatting examples
-* Variable creation and usage
-* Data type examples (int, float, string, etc.)
+This file is designed for beginners who are learning Python fundamentals.
+It includes simple programs with comments for better understanding.
 
 ---
 
-## 🚀 Purpose
+## 🧠 Concepts Practiced
 
-This repository is created to:
+* Using `print()` function
+* Understanding data types (`int`, `float`, `str`, `bool`)
+* Converting numbers:
 
-* Practice Python basics
-* Build a strong programming foundation
-* Track my learning journey
-
----
-
-
-## 🙌 Author
-
-**Arun Gupta**
-BCA Graduate | MCA Student | Aspiring Data Analyst
+  * Decimal → Binary (`bin()`)
+  * Decimal → Octal (`oct()`)
+  * Decimal → Hex (`hex()`)
+* Converting back using `int(value, base)`
+* Scientific notation like `1e3`, `2.5e2`
 
 ---
 
-⭐ If you like this repository, feel free to star it!
+## ⭐ Note
+
+This is a beginner-friendly practice file for students starting Python and preparing for coding interviews or data analysis basics.
+
